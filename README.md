@@ -1,3 +1,4 @@
+# Outdated but still large
 # Just An Simple Repo Fetching Scam Links Every One Hour.
 
 ### Json file domains.json
